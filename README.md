@@ -25,4 +25,4 @@ A Smart Parking Reservation System built using Java, Spring Boot, and MySQL.
 5. Open `http://localhost:8080` in your browser.
 
 ## Author
-Iniya-S3539
+Brindha-j3522
