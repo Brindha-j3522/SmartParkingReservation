@@ -15,7 +15,8 @@ import java.util.Comparator;
 import java.util.List;
 
 @Controller
-public class HomeController {
+public class
+HomeController {
 
     private final ReservationRepository reservationRepository;
 
